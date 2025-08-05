@@ -15,7 +15,7 @@
 
 Nội dung được chia theo từng **chủ đề mạch lạc**, kèm theo:
 - Jupyter Notebook minh họa
-- Slide học lý thuyết
+- Slide học lý thuyết (nếu mình có)
 - Bài tập thực hành
 - Tài liệu tham khảo
 
